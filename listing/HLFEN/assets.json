@@ -1,0 +1,119 @@
+{
+ "_info": "slot -> published file; files are never overwritten",
+ "slots": {
+  "G1": {
+   "file": "img/G1-imaginea-principala.r1.jpg",
+   "src": "galerie-v3/01-principala-v1.jpg",
+   "hash": "11dc1280245353fd",
+   "rev": 1
+  },
+  "G2": {
+   "file": "img/G2-denumiri-in-engleza.r1.jpg",
+   "src": "galerie-v3/04-engleza-v1.jpg",
+   "hash": "58a76c8217e2ff6d",
+   "rev": 1
+  },
+  "G3": {
+   "file": "img/G3-birou.r1.jpg",
+   "src": "galerie-v3/10-birou-text.jpg",
+   "hash": "59ffea287318598b",
+   "rev": 1
+  },
+  "G4": {
+   "file": "img/G4-sala-de-clasa.r1.jpg",
+   "src": "galerie-v3/03-clasa-text.jpg",
+   "hash": "cf4c4bc472b0e718",
+   "rev": 1
+  },
+  "G5": {
+   "file": "img/G5-steagurile-tuturor-tarilor.r1.jpg",
+   "src": "galerie-v3/05-steaguri-v1.jpg",
+   "hash": "c9037cff6a6858e2",
+   "rev": 1
+  },
+  "G6": {
+   "file": "img/G6-material.r1.jpg",
+   "src": "galerie-v3/07-material-v2.jpg",
+   "hash": "661a361bd1c0f7fd",
+   "rev": 1
+  },
+  "G7": {
+   "file": "img/G7-toate-marimile.r1.jpg",
+   "src": "galerie-v3/09-marimi-v2.jpg",
+   "hash": "d80768da0fddcc99",
+   "rev": 1
+  },
+  "G8-HLF100": {
+   "file": "img/G8-HLF100-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/06-cutie-HLF100-v3.jpg",
+   "hash": "9ebb713c0eaa63bc",
+   "rev": 1
+  },
+  "G8-HLF140": {
+   "file": "img/G8-HLF140-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/06-cutie-HLF140-v3.jpg",
+   "hash": "f419a2a122915355",
+   "rev": 1
+  },
+  "G8-HLF160": {
+   "file": "img/G8-HLF160-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/06-cutie-HLF160-v3.jpg",
+   "hash": "fc1b813c22cfde17",
+   "rev": 1
+  },
+  "G9": {
+   "file": "img/G9-montaj.r1.jpg",
+   "src": "galerie-v3/08-montaj-v1.jpg",
+   "hash": "99b2cd9d26ecbe2f",
+   "rev": 1
+  },
+  "A1": {
+   "file": "img/A1-denumiri-in-engleza.r1.jpg",
+   "src": "galerie-v3/04-engleza-v1.jpg",
+   "hash": "93a9e60514e7e4a8",
+   "rev": 1
+  },
+  "A2": {
+   "file": "img/A2-steagurile-tuturor-tarilor.r1.jpg",
+   "src": "galerie-v3/05-steaguri-v1.jpg",
+   "hash": "9764048b62ff6192",
+   "rev": 1
+  },
+  "A3": {
+   "file": "img/A3-sala-de-clasa.r1.jpg",
+   "src": "galerie-v3/03-clasa-text.jpg",
+   "hash": "8c7ab193293a8f32",
+   "rev": 1
+  },
+  "A4": {
+   "file": "img/A4-birou.r1.jpg",
+   "src": "galerie-v3/10-birou-text.jpg",
+   "hash": "2de06296fce8bd19",
+   "rev": 1
+  },
+  "A5": {
+   "file": "img/A5-material.r1.jpg",
+   "src": "galerie-v3/07-material-v2.jpg",
+   "hash": "b1f57ea85d32a42e",
+   "rev": 1
+  },
+  "A6": {
+   "file": "img/A6-toate-marimile.r1.jpg",
+   "src": "galerie-v3/09-marimi-v2.jpg",
+   "hash": "49480ccaf81892ac",
+   "rev": 1
+  },
+  "A7": {
+   "file": "img/A7-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/06-cutie-HLF140-v3.jpg",
+   "hash": "513a3eee673b3838",
+   "rev": 1
+  },
+  "A8": {
+   "file": "img/A8-montaj.r1.jpg",
+   "src": "galerie-v3/08-montaj-v1.jpg",
+   "hash": "329a9e28c2cfebce",
+   "rev": 1
+  }
+ }
+}

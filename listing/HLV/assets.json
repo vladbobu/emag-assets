@@ -1,0 +1,119 @@
+{
+ "_info": "slot -> published file; files are never overwritten",
+ "slots": {
+  "G1": {
+   "file": "img/G1-imaginea-principala.r1.jpg",
+   "src": "galerie-v3/01-principala-v3-cuplu.jpg",
+   "hash": "edc40782e7c45a1f",
+   "rev": 1
+  },
+  "G2": {
+   "file": "img/G2-stil-vintage-de-colectie.r1.jpg",
+   "src": "galerie-v3/04-engleza-v1.jpg",
+   "hash": "3a4c706ecacc3942",
+   "rev": 1
+  },
+  "G3": {
+   "file": "img/G3-birou.r1.jpg",
+   "src": "galerie-v3/10-birou-text.jpg",
+   "hash": "ebfb2abbae2d41ad",
+   "rev": 1
+  },
+  "G4": {
+   "file": "img/G4-living.r1.jpg",
+   "src": "galerie-v3/03-clasa-text.jpg",
+   "hash": "037ec26192c05d6f",
+   "rev": 1
+  },
+  "G5": {
+   "file": "img/G5-detalii-clare-pe-toata-harta.r1.jpg",
+   "src": "galerie-v3/05-detaliu-v1.jpg",
+   "hash": "e19b4f35956299c0",
+   "rev": 1
+  },
+  "G6": {
+   "file": "img/G6-material.r1.jpg",
+   "src": "galerie-v3/07-material-v2.jpg",
+   "hash": "661a361bd1c0f7fd",
+   "rev": 1
+  },
+  "G7": {
+   "file": "img/G7-toate-marimile.r1.jpg",
+   "src": "galerie-v3/09-marimi-v2.jpg",
+   "hash": "b97b123de9ecc9fe",
+   "rev": 1
+  },
+  "G8-HLV140": {
+   "file": "img/G8-HLV140-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/06-cutie-HLV140-v3.jpg",
+   "hash": "a451d75cb0a37e8d",
+   "rev": 1
+  },
+  "G8-HLV160": {
+   "file": "img/G8-HLV160-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/06-cutie-HLV160-v3.jpg",
+   "hash": "5cbbd81f7d5dfc01",
+   "rev": 1
+  },
+  "G8-HLV180": {
+   "file": "img/G8-HLV180-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/06-cutie-HLV180-v3.jpg",
+   "hash": "60005dac96f6b3c0",
+   "rev": 1
+  },
+  "G9": {
+   "file": "img/G9-montaj.r1.jpg",
+   "src": "galerie-v3/08-montaj-v1.jpg",
+   "hash": "0b29edb5c09efaba",
+   "rev": 1
+  },
+  "A1": {
+   "file": "img/A1-stil-vintage-de-colectie.r1.jpg",
+   "src": "galerie-v3/04-engleza-v1.jpg",
+   "hash": "0ae56cef78139338",
+   "rev": 1
+  },
+  "A2": {
+   "file": "img/A2-living.r1.jpg",
+   "src": "galerie-v3/03-clasa-text.jpg",
+   "hash": "7ba8f0f34dbafc6f",
+   "rev": 1
+  },
+  "A3": {
+   "file": "img/A3-birou.r1.jpg",
+   "src": "galerie-v3/10-birou-text.jpg",
+   "hash": "798d8bdd803f8afc",
+   "rev": 1
+  },
+  "A4": {
+   "file": "img/A4-detalii-clare-pe-toata-harta.r1.jpg",
+   "src": "galerie-v3/05-detaliu-v1.jpg",
+   "hash": "35bbaa4ce3950c54",
+   "rev": 1
+  },
+  "A5": {
+   "file": "img/A5-material.r1.jpg",
+   "src": "galerie-v3/07-material-v2.jpg",
+   "hash": "b1f57ea85d32a42e",
+   "rev": 1
+  },
+  "A6": {
+   "file": "img/A6-toate-marimile.r1.jpg",
+   "src": "galerie-v3/09-marimi-v2.jpg",
+   "hash": "3dad34e1a0f34815",
+   "rev": 1
+  },
+  "A7": {
+   "file": "img/A7-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/06-cutie-HLV140-v3.jpg",
+   "hash": "69f2af643fc8caec",
+   "rev": 1
+  },
+  "A8": {
+   "file": "img/A8-montaj.r1.jpg",
+   "src": "galerie-v3/08-montaj-v1.jpg",
+   "hash": "cf52117b806c4925",
+   "rev": 1
+  }
+ }
+}

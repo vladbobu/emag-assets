@@ -44,16 +44,16 @@
    "rev": 2
   },
   "G8-HEF110": {
-   "file": "img/G8-HEF110-cutia-cu-eticheta.r1.jpg",
-   "src": "galerie-v3/06-cutie-HEF110-v1.jpg",
-   "hash": "49aa24d9bbf697fb",
-   "rev": 1
+   "file": "img/G8-HEF110-cutia-cu-eticheta.r2.jpg",
+   "src": "galerie-v3/06-cutie-HEF110-v2.jpg",
+   "hash": "d9f0d8ad1b6b978b",
+   "rev": 2
   },
   "G8-HEF150": {
-   "file": "img/G8-HEF150-cutia-cu-eticheta.r1.jpg",
-   "src": "galerie-v3/06-cutie-HEF150-v1.jpg",
-   "hash": "f9fb29827edd6ee9",
-   "rev": 1
+   "file": "img/G8-HEF150-cutia-cu-eticheta.r2.jpg",
+   "src": "galerie-v3/06-cutie-HEF150-v2.jpg",
+   "hash": "a0c6401f53db9845",
+   "rev": 2
   },
   "G9": {
    "file": "img/G9-montaj.r1.jpg",
@@ -98,10 +98,10 @@
    "rev": 2
   },
   "A7": {
-   "file": "img/A7-cutia-cu-eticheta.r1.jpg",
-   "src": "galerie-v3/06-cutie-HEF110-v1.jpg",
-   "hash": "2b920f59e29a0f4d",
-   "rev": 1
+   "file": "img/A7-cutia-cu-eticheta.r2.jpg",
+   "src": "galerie-v3/06-cutie-HEF110-v2.jpg",
+   "hash": "c6b5aa445f813939",
+   "rev": 2
   },
   "A8": {
    "file": "img/A8-montaj.r1.jpg",

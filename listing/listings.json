@@ -67,5 +67,50 @@
   ],
   "cover": "HRF/img/G1-imaginea-principala.r1.jpg",
   "updated": "18.11.2026"
+ },
+ "HLPEN": {
+  "name": "Harta Politica a Lumii cu Tari · în engleză",
+  "sizes": [
+   "100×60 cm",
+   "140×90 cm",
+   "160×100 cm"
+  ],
+  "prices": [
+   129,
+   189,
+   229
+  ],
+  "cover": "HLPEN/img/G1-imaginea-principala.r1.jpg",
+  "updated": "18.11.2026"
+ },
+ "HLFEN": {
+  "name": "Harta Fizica a Lumii cu Relief · în engleză",
+  "sizes": [
+   "100×60 cm",
+   "140×90 cm",
+   "160×100 cm"
+  ],
+  "prices": [
+   129,
+   189,
+   229
+  ],
+  "cover": "HLFEN/img/G1-imaginea-principala.r1.jpg",
+  "updated": "18.11.2026"
+ },
+ "HLV": {
+  "name": "Harta Politica a Lumii Stil Antic de Colectie · în engleză",
+  "sizes": [
+   "140×90 cm",
+   "160×100 cm",
+   "180×120 cm"
+  ],
+  "prices": [
+   189,
+   229,
+   309
+  ],
+  "cover": "HLV/img/G1-imaginea-principala.r1.jpg",
+  "updated": "18.11.2026"
  }
 }

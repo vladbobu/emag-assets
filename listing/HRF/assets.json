@@ -44,16 +44,16 @@
    "rev": 2
   },
   "G8-HRF110": {
-   "file": "img/G8-HRF110-cutia-cu-eticheta.r1.jpg",
-   "src": "galerie-v3/06-cutie-HRF110-v1.jpg",
-   "hash": "b94f6b696c566f3b",
-   "rev": 1
+   "file": "img/G8-HRF110-cutia-cu-eticheta.r2.jpg",
+   "src": "galerie-v3/06-cutie-HRF110-v2.jpg",
+   "hash": "f6366bb506cbcdb8",
+   "rev": 2
   },
   "G8-HRF150": {
-   "file": "img/G8-HRF150-cutia-cu-eticheta.r1.jpg",
-   "src": "galerie-v3/06-cutie-HRF150-v1.jpg",
-   "hash": "b60d84cced7d76ee",
-   "rev": 1
+   "file": "img/G8-HRF150-cutia-cu-eticheta.r2.jpg",
+   "src": "galerie-v3/06-cutie-HRF150-v2.jpg",
+   "hash": "639144fedeb69aaa",
+   "rev": 2
   },
   "G9": {
    "file": "img/G9-montaj.r1.jpg",
@@ -98,10 +98,10 @@
    "rev": 2
   },
   "A7": {
-   "file": "img/A7-cutia-cu-eticheta.r1.jpg",
-   "src": "galerie-v3/06-cutie-HRF110-v1.jpg",
-   "hash": "a2afcdfe22dbcf9f",
-   "rev": 1
+   "file": "img/A7-cutia-cu-eticheta.r2.jpg",
+   "src": "galerie-v3/06-cutie-HRF110-v2.jpg",
+   "hash": "3117c55d2bffb548",
+   "rev": 2
   },
   "A8": {
    "file": "img/A8-montaj.r1.jpg",
