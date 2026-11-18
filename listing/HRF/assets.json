@@ -1,0 +1,113 @@
+{
+ "_info": "slot -> published file; files are never overwritten",
+ "slots": {
+  "G1": {
+   "file": "img/G1-imaginea-principala.r1.jpg",
+   "src": "galerie-v3/01-principala-v2.jpg",
+   "hash": "d30d69b9a3ff114a",
+   "rev": 1
+  },
+  "G2": {
+   "file": "img/G2-toate-judetele-si-relieful.r1.jpg",
+   "src": "galerie-v3/04-judete-v1.jpg",
+   "hash": "4526e345e8c62cf5",
+   "rev": 1
+  },
+  "G3": {
+   "file": "img/G3-birou.r1.jpg",
+   "src": "galerie-v3/10-birou-v1.jpg",
+   "hash": "716fd33251536922",
+   "rev": 1
+  },
+  "G4": {
+   "file": "img/G4-sala-de-clasa.r1.jpg",
+   "src": "galerie-v3/03-clasa-v1.jpg",
+   "hash": "868cab1a52eb77af",
+   "rev": 1
+  },
+  "G5": {
+   "file": "img/G5-delta-dunarii-si-litoralul.r1.jpg",
+   "src": "galerie-v3/05-delta-v1.jpg",
+   "hash": "3c07bbd047699b5f",
+   "rev": 1
+  },
+  "G6": {
+   "file": "img/G6-material.r1.jpg",
+   "src": "galerie-v3/07-material-v2.jpg",
+   "hash": "661a361bd1c0f7fd",
+   "rev": 1
+  },
+  "G7": {
+   "file": "img/G7-ambele-marimi.r1.jpg",
+   "src": "galerie-v3/09-marimi-v1.jpg",
+   "hash": "a658a05ce7e03775",
+   "rev": 1
+  },
+  "G8-HRF110": {
+   "file": "img/G8-HRF110-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/06-cutie-HRF110-v1.jpg",
+   "hash": "b94f6b696c566f3b",
+   "rev": 1
+  },
+  "G8-HRF150": {
+   "file": "img/G8-HRF150-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/06-cutie-HRF150-v1.jpg",
+   "hash": "b60d84cced7d76ee",
+   "rev": 1
+  },
+  "G9": {
+   "file": "img/G9-montaj.r1.jpg",
+   "src": "galerie-v3/08-montaj-v1.jpg",
+   "hash": "210e5196a4593330",
+   "rev": 1
+  },
+  "A1": {
+   "file": "img/A1-toate-judetele-si-relieful.r1.jpg",
+   "src": "galerie-v3/04-judete-v1.jpg",
+   "hash": "cda12681c45d9716",
+   "rev": 1
+  },
+  "A2": {
+   "file": "img/A2-delta-dunarii-si-litoralul.r1.jpg",
+   "src": "galerie-v3/05-delta-v1.jpg",
+   "hash": "bc2fc0a2a22df6ee",
+   "rev": 1
+  },
+  "A3": {
+   "file": "img/A3-sala-de-clasa.r1.jpg",
+   "src": "galerie-v3/03-clasa-v1.jpg",
+   "hash": "d072e32930f64609",
+   "rev": 1
+  },
+  "A4": {
+   "file": "img/A4-birou.r1.jpg",
+   "src": "galerie-v3/10-birou-v1.jpg",
+   "hash": "f18aa40cbfa71c54",
+   "rev": 1
+  },
+  "A5": {
+   "file": "img/A5-material.r1.jpg",
+   "src": "galerie-v3/07-material-v2.jpg",
+   "hash": "b1f57ea85d32a42e",
+   "rev": 1
+  },
+  "A6": {
+   "file": "img/A6-ambele-marimi.r1.jpg",
+   "src": "galerie-v3/09-marimi-v1.jpg",
+   "hash": "3b0fded58c559b7a",
+   "rev": 1
+  },
+  "A7": {
+   "file": "img/A7-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/06-cutie-HRF110-v1.jpg",
+   "hash": "a2afcdfe22dbcf9f",
+   "rev": 1
+  },
+  "A8": {
+   "file": "img/A8-montaj.r1.jpg",
+   "src": "galerie-v3/08-montaj-v1.jpg",
+   "hash": "a75b171284a5437d",
+   "rev": 1
+  }
+ }
+}

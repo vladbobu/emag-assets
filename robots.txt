@@ -1,0 +1,9 @@
+# Private asset host for BRUDO listings: not for search engines or crawlers.
+# Google and Bing may fetch pages only to read the "noindex" header/meta (a blocked page can still be indexed as a bare URL).
+User-agent: Googlebot
+User-agent: Googlebot-Image
+User-agent: Bingbot
+Allow: /
+
+User-agent: *
+Disallow: /

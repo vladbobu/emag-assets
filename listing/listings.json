@@ -1,0 +1,71 @@
+{
+ "HLP": {
+  "name": "Harta Politica a Lumii in Limba Romana",
+  "sizes": [
+   "110×70 cm",
+   "150×95 cm",
+   "180×110 cm"
+  ],
+  "prices": [
+   139,
+   199,
+   249
+  ],
+  "cover": "HLP/img/G1-imaginea-principala.r1.jpg",
+  "updated": "18.11.2026"
+ },
+ "HLF": {
+  "name": "Harta Fizica a Lumii in Limba Romana",
+  "sizes": [
+   "110×70 cm",
+   "150×95 cm",
+   "180×110 cm"
+  ],
+  "prices": [
+   139,
+   199,
+   249
+  ],
+  "cover": "HLF/img/G1-imaginea-principala.r1.jpg",
+  "updated": "18.11.2026"
+ },
+ "HEP": {
+  "name": "Harta Politica a Europei in Limba Romana",
+  "sizes": [
+   "110×80 cm",
+   "150×100 cm"
+  ],
+  "prices": [
+   149,
+   209
+  ],
+  "cover": "HEP/img/G1-imaginea-principala.r1.jpg",
+  "updated": "18.11.2026"
+ },
+ "HEF": {
+  "name": "Harta Fizica a Europei in Limba Romana",
+  "sizes": [
+   "110×80 cm",
+   "150×100 cm"
+  ],
+  "prices": [
+   149,
+   209
+  ],
+  "cover": "HEF/img/G1-imaginea-principala.r1.jpg",
+  "updated": "18.11.2026"
+ },
+ "HRF": {
+  "name": "Harta Fizica a Romaniei",
+  "sizes": [
+   "110×70 cm",
+   "150×100 cm"
+  ],
+  "prices": [
+   139,
+   209
+  ],
+  "cover": "HRF/img/G1-imaginea-principala.r1.jpg",
+  "updated": "18.11.2026"
+ }
+}

@@ -1,0 +1,4 @@
+# Cloudflare Pages response headers. Nothing on this site may be indexed or shown by search engines
+# (listing previews, eMAG description images). eMAG keeps loading the images; this only affects crawlers.
+/*
+  X-Robots-Tag: noindex, nofollow, noarchive, nosnippet, noimageindex
