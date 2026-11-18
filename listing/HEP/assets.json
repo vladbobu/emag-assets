@@ -1,0 +1,113 @@
+{
+ "_info": "slot -> published file; files are never overwritten",
+ "slots": {
+  "G1": {
+   "file": "img/G1-imaginea-principala.r1.jpg",
+   "src": "galerie-v3/01-principala-v2.jpg",
+   "hash": "65771071b14afcd9",
+   "rev": 1
+  },
+  "G2": {
+   "file": "img/G2-toate-denumirile-in-limba-ro.r1.jpg",
+   "src": "galerie-v3/04-limba-romana-v2.jpg",
+   "hash": "9e43ad46f5d28783",
+   "rev": 1
+  },
+  "G3": {
+   "file": "img/G3-birou.r1.jpg",
+   "src": "galerie-v3/10-birou-v1.jpg",
+   "hash": "74f4e30a4d33c9da",
+   "rev": 1
+  },
+  "G4": {
+   "file": "img/G4-sala-de-clasa.r1.jpg",
+   "src": "galerie-v3/03-clasa-v1.jpg",
+   "hash": "dca6610f13a8de93",
+   "rev": 1
+  },
+  "G5": {
+   "file": "img/G5-toate-tarile-europei.r1.jpg",
+   "src": "galerie-v3/05-capitale-v1.jpg",
+   "hash": "3607a0b758476c18",
+   "rev": 1
+  },
+  "G6": {
+   "file": "img/G6-material.r1.jpg",
+   "src": "galerie-v3/07-material-v2.jpg",
+   "hash": "661a361bd1c0f7fd",
+   "rev": 1
+  },
+  "G7": {
+   "file": "img/G7-ambele-marimi.r1.jpg",
+   "src": "galerie-v3/09-marimi-v1.jpg",
+   "hash": "ad16467b695d7b31",
+   "rev": 1
+  },
+  "G8-HEP110": {
+   "file": "img/G8-HEP110-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/06-cutie-HEP110-v1.jpg",
+   "hash": "fa538ed3f3c61c3d",
+   "rev": 1
+  },
+  "G8-HEP150": {
+   "file": "img/G8-HEP150-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/06-cutie-HEP150-v1.jpg",
+   "hash": "bbd93f70226bb776",
+   "rev": 1
+  },
+  "G9": {
+   "file": "img/G9-montaj.r1.jpg",
+   "src": "galerie-v3/08-montaj-v1.jpg",
+   "hash": "a6cf071e23973c93",
+   "rev": 1
+  },
+  "A1": {
+   "file": "img/A1-toate-denumirile-in-limba-ro.r1.jpg",
+   "src": "galerie-v3/04-limba-romana-v2.jpg",
+   "hash": "75d147ac20dda8c5",
+   "rev": 1
+  },
+  "A2": {
+   "file": "img/A2-toate-tarile-europei.r1.jpg",
+   "src": "galerie-v3/05-capitale-v1.jpg",
+   "hash": "8404b0f3b61b32e6",
+   "rev": 1
+  },
+  "A3": {
+   "file": "img/A3-sala-de-clasa.r1.jpg",
+   "src": "galerie-v3/03-clasa-v1.jpg",
+   "hash": "5936a0b3f78f8600",
+   "rev": 1
+  },
+  "A4": {
+   "file": "img/A4-birou.r1.jpg",
+   "src": "galerie-v3/10-birou-v1.jpg",
+   "hash": "ace42d6c96ae9586",
+   "rev": 1
+  },
+  "A5": {
+   "file": "img/A5-material.r1.jpg",
+   "src": "galerie-v3/07-material-v2.jpg",
+   "hash": "b1f57ea85d32a42e",
+   "rev": 1
+  },
+  "A6": {
+   "file": "img/A6-ambele-marimi.r1.jpg",
+   "src": "galerie-v3/09-marimi-v1.jpg",
+   "hash": "5ae617b7801f7965",
+   "rev": 1
+  },
+  "A7": {
+   "file": "img/A7-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/06-cutie-HEP110-v1.jpg",
+   "hash": "fa1d84f9ba2e0985",
+   "rev": 1
+  },
+  "A8": {
+   "file": "img/A8-montaj.r1.jpg",
+   "src": "galerie-v3/08-montaj-v1.jpg",
+   "hash": "4230b11f68be093c",
+   "rev": 1
+  }
+ }
+}

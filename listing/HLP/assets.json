@@ -62,10 +62,10 @@
    "rev": 1
   },
   "G9": {
-   "file": "img/G9-montaj.r1.jpg",
-   "src": "galerie-v3/08-montaj-v1.jpg",
-   "hash": "52967eca5c03af5e",
-   "rev": 1
+   "file": "img/G9-montaj.r2.jpg",
+   "src": "galerie-v3/08-montaj-v3.jpg",
+   "hash": "8c9354a7477d192a",
+   "rev": 2
   },
   "A1": {
    "file": "img/A1-toate-denumirile-in-limba-ro.r1.jpg",
@@ -104,10 +104,10 @@
    "rev": 1
   },
   "A8": {
-   "file": "img/A8-montaj.r1.jpg",
-   "src": "galerie-v3/08-montaj-v1.jpg",
-   "hash": "e5afa6cb4eefd0f2",
-   "rev": 1
+   "file": "img/A8-montaj.r2.jpg",
+   "src": "galerie-v3/08-montaj-v3.jpg",
+   "hash": "f3d99410b8275635",
+   "rev": 2
   },
   "A7": {
    "file": "img/A7-cutia-cu-eticheta.r1.jpg",
