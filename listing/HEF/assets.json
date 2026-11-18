@@ -14,16 +14,16 @@
    "rev": 1
   },
   "G3": {
-   "file": "img/G3-birou.r1.jpg",
-   "src": "galerie-v3/10-birou-v2.jpg",
-   "hash": "b1038158d22122c7",
-   "rev": 1
+   "file": "img/G3-birou.r2.jpg",
+   "src": "galerie-v3/10-birou-text.jpg",
+   "hash": "f9768608daf1c3a6",
+   "rev": 2
   },
   "G4": {
-   "file": "img/G4-sala-de-clasa.r1.jpg",
-   "src": "galerie-v3/03-clasa-v2.jpg",
-   "hash": "ef481c87cb2578b8",
-   "rev": 1
+   "file": "img/G4-sala-de-clasa.r2.jpg",
+   "src": "galerie-v3/03-clasa-text.jpg",
+   "hash": "1daf1dc2d9df72d2",
+   "rev": 2
   },
   "G5": {
    "file": "img/G5-munti-si-varfuri-cu-altitudi.r1.jpg",
@@ -38,10 +38,10 @@
    "rev": 1
   },
   "G7": {
-   "file": "img/G7-ambele-marimi.r1.jpg",
-   "src": "galerie-v3/09-marimi-v1.jpg",
-   "hash": "f05e26f194db53eb",
-   "rev": 1
+   "file": "img/G7-ambele-marimi.r2.jpg",
+   "src": "galerie-v3/09-marimi-v2.jpg",
+   "hash": "de6cc11d6f824142",
+   "rev": 2
   },
   "G8-HEF110": {
    "file": "img/G8-HEF110-cutia-cu-eticheta.r1.jpg",
@@ -74,16 +74,16 @@
    "rev": 1
   },
   "A3": {
-   "file": "img/A3-sala-de-clasa.r1.jpg",
-   "src": "galerie-v3/03-clasa-v2.jpg",
-   "hash": "3e361122e329cd3e",
-   "rev": 1
+   "file": "img/A3-sala-de-clasa.r2.jpg",
+   "src": "galerie-v3/03-clasa-text.jpg",
+   "hash": "9d36c66b006f5ec7",
+   "rev": 2
   },
   "A4": {
-   "file": "img/A4-birou.r1.jpg",
-   "src": "galerie-v3/10-birou-v2.jpg",
-   "hash": "9da4f57fbf851970",
-   "rev": 1
+   "file": "img/A4-birou.r2.jpg",
+   "src": "galerie-v3/10-birou-text.jpg",
+   "hash": "d31bdec41899fc84",
+   "rev": 2
   },
   "A5": {
    "file": "img/A5-material.r1.jpg",
@@ -92,10 +92,10 @@
    "rev": 1
   },
   "A6": {
-   "file": "img/A6-ambele-marimi.r1.jpg",
-   "src": "galerie-v3/09-marimi-v1.jpg",
-   "hash": "d2fed23cbbe984be",
-   "rev": 1
+   "file": "img/A6-ambele-marimi.r2.jpg",
+   "src": "galerie-v3/09-marimi-v2.jpg",
+   "hash": "d8b761e5ef9af00b",
+   "rev": 2
   },
   "A7": {
    "file": "img/A7-cutia-cu-eticheta.r1.jpg",

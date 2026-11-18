@@ -14,16 +14,16 @@
    "rev": 1
   },
   "G3": {
-   "file": "img/G3-birou.r1.jpg",
-   "src": "galerie-v3/10-birou-v1.jpg",
-   "hash": "74f4e30a4d33c9da",
-   "rev": 1
+   "file": "img/G3-birou.r2.jpg",
+   "src": "galerie-v3/10-birou-text.jpg",
+   "hash": "1d76d5e362b3f9f4",
+   "rev": 2
   },
   "G4": {
-   "file": "img/G4-sala-de-clasa.r1.jpg",
-   "src": "galerie-v3/03-clasa-v1.jpg",
-   "hash": "dca6610f13a8de93",
-   "rev": 1
+   "file": "img/G4-sala-de-clasa.r2.jpg",
+   "src": "galerie-v3/03-clasa-text.jpg",
+   "hash": "202b1e7145e67980",
+   "rev": 2
   },
   "G5": {
    "file": "img/G5-toate-tarile-europei.r1.jpg",
@@ -38,10 +38,10 @@
    "rev": 1
   },
   "G7": {
-   "file": "img/G7-ambele-marimi.r1.jpg",
-   "src": "galerie-v3/09-marimi-v1.jpg",
-   "hash": "ad16467b695d7b31",
-   "rev": 1
+   "file": "img/G7-ambele-marimi.r2.jpg",
+   "src": "galerie-v3/09-marimi-v2.jpg",
+   "hash": "5733c64f634cebbb",
+   "rev": 2
   },
   "G8-HEP110": {
    "file": "img/G8-HEP110-cutia-cu-eticheta.r1.jpg",
@@ -74,16 +74,16 @@
    "rev": 1
   },
   "A3": {
-   "file": "img/A3-sala-de-clasa.r1.jpg",
-   "src": "galerie-v3/03-clasa-v1.jpg",
-   "hash": "5936a0b3f78f8600",
-   "rev": 1
+   "file": "img/A3-sala-de-clasa.r2.jpg",
+   "src": "galerie-v3/03-clasa-text.jpg",
+   "hash": "d4388a04b5086fd7",
+   "rev": 2
   },
   "A4": {
-   "file": "img/A4-birou.r1.jpg",
-   "src": "galerie-v3/10-birou-v1.jpg",
-   "hash": "ace42d6c96ae9586",
-   "rev": 1
+   "file": "img/A4-birou.r2.jpg",
+   "src": "galerie-v3/10-birou-text.jpg",
+   "hash": "c82e1bc9ea1009f5",
+   "rev": 2
   },
   "A5": {
    "file": "img/A5-material.r1.jpg",
@@ -92,10 +92,10 @@
    "rev": 1
   },
   "A6": {
-   "file": "img/A6-ambele-marimi.r1.jpg",
-   "src": "galerie-v3/09-marimi-v1.jpg",
-   "hash": "5ae617b7801f7965",
-   "rev": 1
+   "file": "img/A6-ambele-marimi.r2.jpg",
+   "src": "galerie-v3/09-marimi-v2.jpg",
+   "hash": "92f9842dfec2697e",
+   "rev": 2
   },
   "A7": {
    "file": "img/A7-cutia-cu-eticheta.r1.jpg",

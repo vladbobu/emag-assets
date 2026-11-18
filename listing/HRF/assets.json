@@ -14,16 +14,16 @@
    "rev": 1
   },
   "G3": {
-   "file": "img/G3-birou.r1.jpg",
-   "src": "galerie-v3/10-birou-v1.jpg",
-   "hash": "716fd33251536922",
-   "rev": 1
+   "file": "img/G3-birou.r2.jpg",
+   "src": "galerie-v3/10-birou-text.jpg",
+   "hash": "b6658f1861669c23",
+   "rev": 2
   },
   "G4": {
-   "file": "img/G4-sala-de-clasa.r1.jpg",
-   "src": "galerie-v3/03-clasa-v1.jpg",
-   "hash": "868cab1a52eb77af",
-   "rev": 1
+   "file": "img/G4-sala-de-clasa.r2.jpg",
+   "src": "galerie-v3/03-clasa-text.jpg",
+   "hash": "9451f4b904cb3332",
+   "rev": 2
   },
   "G5": {
    "file": "img/G5-delta-dunarii-si-litoralul.r1.jpg",
@@ -38,10 +38,10 @@
    "rev": 1
   },
   "G7": {
-   "file": "img/G7-ambele-marimi.r1.jpg",
-   "src": "galerie-v3/09-marimi-v1.jpg",
-   "hash": "a658a05ce7e03775",
-   "rev": 1
+   "file": "img/G7-ambele-marimi.r2.jpg",
+   "src": "galerie-v3/09-marimi-v2.jpg",
+   "hash": "238020b93a1d6bf3",
+   "rev": 2
   },
   "G8-HRF110": {
    "file": "img/G8-HRF110-cutia-cu-eticheta.r1.jpg",
@@ -74,16 +74,16 @@
    "rev": 1
   },
   "A3": {
-   "file": "img/A3-sala-de-clasa.r1.jpg",
-   "src": "galerie-v3/03-clasa-v1.jpg",
-   "hash": "d072e32930f64609",
-   "rev": 1
+   "file": "img/A3-sala-de-clasa.r2.jpg",
+   "src": "galerie-v3/03-clasa-text.jpg",
+   "hash": "bd66abd91df7bb00",
+   "rev": 2
   },
   "A4": {
-   "file": "img/A4-birou.r1.jpg",
-   "src": "galerie-v3/10-birou-v1.jpg",
-   "hash": "f18aa40cbfa71c54",
-   "rev": 1
+   "file": "img/A4-birou.r2.jpg",
+   "src": "galerie-v3/10-birou-text.jpg",
+   "hash": "5f887fb7cc64c063",
+   "rev": 2
   },
   "A5": {
    "file": "img/A5-material.r1.jpg",
@@ -92,10 +92,10 @@
    "rev": 1
   },
   "A6": {
-   "file": "img/A6-ambele-marimi.r1.jpg",
-   "src": "galerie-v3/09-marimi-v1.jpg",
-   "hash": "3b0fded58c559b7a",
-   "rev": 1
+   "file": "img/A6-ambele-marimi.r2.jpg",
+   "src": "galerie-v3/09-marimi-v2.jpg",
+   "hash": "f0a9ad131708c110",
+   "rev": 2
   },
   "A7": {
    "file": "img/A7-cutia-cu-eticheta.r1.jpg",

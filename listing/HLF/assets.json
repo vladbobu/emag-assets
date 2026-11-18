@@ -14,16 +14,16 @@
    "rev": 1
   },
   "G3": {
-   "file": "img/G3-birou.r1.jpg",
-   "src": "galerie-v3/10-birou-v2.jpg",
-   "hash": "7cdddf5ef9ee9d29",
-   "rev": 1
+   "file": "img/G3-birou.r2.jpg",
+   "src": "galerie-v3/10-birou-text.jpg",
+   "hash": "3e04d8d2557a921d",
+   "rev": 2
   },
   "G4": {
-   "file": "img/G4-sala-de-clasa.r1.jpg",
-   "src": "galerie-v3/03-clasa-v2.jpg",
-   "hash": "f2680a8232f3a493",
-   "rev": 1
+   "file": "img/G4-sala-de-clasa.r2.jpg",
+   "src": "galerie-v3/03-clasa-text.jpg",
+   "hash": "983e3b7aad60dac5",
+   "rev": 2
   },
   "G5": {
    "file": "img/G5-steagurile-tuturor-tarilor.r1.jpg",
@@ -38,10 +38,10 @@
    "rev": 1
   },
   "G7": {
-   "file": "img/G7-toate-marimile.r1.jpg",
-   "src": "galerie-v3/09-marimi-v1.jpg",
-   "hash": "31bfcf40c6a33fed",
-   "rev": 1
+   "file": "img/G7-toate-marimile.r2.jpg",
+   "src": "galerie-v3/09-marimi-v2.jpg",
+   "hash": "a4643a0e8ef2e348",
+   "rev": 2
   },
   "G8-HLF110": {
    "file": "img/G8-HLF110-cutia-cu-eticheta.r1.jpg",
@@ -80,16 +80,16 @@
    "rev": 1
   },
   "A3": {
-   "file": "img/A3-sala-de-clasa.r1.jpg",
-   "src": "galerie-v3/03-clasa-v2.jpg",
-   "hash": "3e3b7d10cf313421",
-   "rev": 1
+   "file": "img/A3-sala-de-clasa.r2.jpg",
+   "src": "galerie-v3/03-clasa-text.jpg",
+   "hash": "7a431a92955e1b57",
+   "rev": 2
   },
   "A4": {
-   "file": "img/A4-birou.r1.jpg",
-   "src": "galerie-v3/10-birou-v2.jpg",
-   "hash": "9cd22a7cd1da22e9",
-   "rev": 1
+   "file": "img/A4-birou.r2.jpg",
+   "src": "galerie-v3/10-birou-text.jpg",
+   "hash": "e48a202d7b9ec9f8",
+   "rev": 2
   },
   "A5": {
    "file": "img/A5-material.r1.jpg",
@@ -98,10 +98,10 @@
    "rev": 1
   },
   "A6": {
-   "file": "img/A6-toate-marimile.r1.jpg",
-   "src": "galerie-v3/09-marimi-v1.jpg",
-   "hash": "5264e5cdb9fd1c29",
-   "rev": 1
+   "file": "img/A6-toate-marimile.r2.jpg",
+   "src": "galerie-v3/09-marimi-v2.jpg",
+   "hash": "7a99b6e663cb21ba",
+   "rev": 2
   },
   "A7": {
    "file": "img/A7-cutia-cu-eticheta.r1.jpg",
