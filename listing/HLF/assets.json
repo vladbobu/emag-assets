@@ -8,64 +8,64 @@
    "rev": 2
   },
   "G2": {
-   "file": "img/G2-toate-denumirile-in-limba-ro.r1.jpg",
-   "src": "galerie-v3/04-limba-romana-v2.jpg",
-   "hash": "93f0a62e93775595",
-   "rev": 1
+   "file": "img/G2-toate-denumirile-in-limba-ro.r2.jpg",
+   "src": "galerie-v3/patrat/04-limba-romana-v2.jpg",
+   "hash": "73927b54fdd5abbe",
+   "rev": 2
   },
   "G3": {
-   "file": "img/G3-birou.r2.jpg",
-   "src": "galerie-v3/10-birou-text.jpg",
-   "hash": "3e04d8d2557a921d",
-   "rev": 2
+   "file": "img/G3-birou.r3.jpg",
+   "src": "galerie-v3/patrat/10-birou-text.jpg",
+   "hash": "9764d25768dadd26",
+   "rev": 3
   },
   "G4": {
-   "file": "img/G4-sala-de-clasa.r2.jpg",
-   "src": "galerie-v3/03-clasa-text.jpg",
-   "hash": "983e3b7aad60dac5",
-   "rev": 2
+   "file": "img/G4-sala-de-clasa.r3.jpg",
+   "src": "galerie-v3/patrat/03-clasa-text.jpg",
+   "hash": "afc78d6c9b07dc5c",
+   "rev": 3
   },
   "G5": {
-   "file": "img/G5-steagurile-tuturor-tarilor.r1.jpg",
-   "src": "galerie-v3/05-steaguri-v1.jpg",
-   "hash": "64e930a324c13de0",
-   "rev": 1
+   "file": "img/G5-steagurile-tuturor-tarilor.r2.jpg",
+   "src": "galerie-v3/patrat/05-steaguri-v1.jpg",
+   "hash": "822e01cec17e6dc6",
+   "rev": 2
   },
   "G6": {
-   "file": "img/G6-material.r1.jpg",
-   "src": "galerie-v3/07-material-v2.jpg",
-   "hash": "661a361bd1c0f7fd",
-   "rev": 1
+   "file": "img/G6-material.r2.jpg",
+   "src": "galerie-v3/patrat/07-material-v2.jpg",
+   "hash": "e16c0f282b50bd52",
+   "rev": 2
   },
   "G7": {
-   "file": "img/G7-toate-marimile.r2.jpg",
-   "src": "galerie-v3/09-marimi-v2.jpg",
-   "hash": "a4643a0e8ef2e348",
-   "rev": 2
+   "file": "img/G7-toate-marimile.r3.jpg",
+   "src": "galerie-v3/patrat/09-marimi-v2.jpg",
+   "hash": "bc1213d2d16423eb",
+   "rev": 3
   },
   "G8-HLF110": {
-   "file": "img/G8-HLF110-cutia-cu-eticheta.r2.jpg",
-   "src": "galerie-v3/06-cutie-HLF110-v2.jpg",
-   "hash": "b71bea6edda1cfbe",
-   "rev": 2
+   "file": "img/G8-HLF110-cutia-cu-eticheta.r3.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HLF110-v2.jpg",
+   "hash": "04db7ebde15b2e2c",
+   "rev": 3
   },
   "G8-HLF150": {
-   "file": "img/G8-HLF150-cutia-cu-eticheta.r2.jpg",
-   "src": "galerie-v3/06-cutie-HLF150-v2.jpg",
-   "hash": "b7a28f0035a4d730",
-   "rev": 2
+   "file": "img/G8-HLF150-cutia-cu-eticheta.r3.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HLF150-v2.jpg",
+   "hash": "0d9d270a47d241c2",
+   "rev": 3
   },
   "G8-HLF180": {
-   "file": "img/G8-HLF180-cutia-cu-eticheta.r2.jpg",
-   "src": "galerie-v3/06-cutie-HLF180-v2.jpg",
-   "hash": "a57048262d06b8be",
-   "rev": 2
+   "file": "img/G8-HLF180-cutia-cu-eticheta.r3.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HLF180-v2.jpg",
+   "hash": "0307662118376986",
+   "rev": 3
   },
   "G9": {
-   "file": "img/G9-montaj.r1.jpg",
-   "src": "galerie-v3/08-montaj-v5.jpg",
-   "hash": "241d7d95b06e6d8d",
-   "rev": 1
+   "file": "img/G9-montaj.r2.jpg",
+   "src": "galerie-v3/patrat/08-montaj-v5.jpg",
+   "hash": "d47f5c51e7b58e7f",
+   "rev": 2
   },
   "A1": {
    "file": "img/A1-toate-denumirile-in-limba-ro.r1.jpg",

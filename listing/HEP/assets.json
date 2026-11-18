@@ -8,58 +8,58 @@
    "rev": 2
   },
   "G2": {
-   "file": "img/G2-toate-denumirile-in-limba-ro.r1.jpg",
-   "src": "galerie-v3/04-limba-romana-v2.jpg",
-   "hash": "9e43ad46f5d28783",
-   "rev": 1
+   "file": "img/G2-toate-denumirile-in-limba-ro.r2.jpg",
+   "src": "galerie-v3/patrat/04-limba-romana-v2.jpg",
+   "hash": "232243ed01adae50",
+   "rev": 2
   },
   "G3": {
-   "file": "img/G3-birou.r2.jpg",
-   "src": "galerie-v3/10-birou-text.jpg",
-   "hash": "1d76d5e362b3f9f4",
-   "rev": 2
+   "file": "img/G3-birou.r3.jpg",
+   "src": "galerie-v3/patrat/10-birou-text.jpg",
+   "hash": "d94248968d306d11",
+   "rev": 3
   },
   "G4": {
-   "file": "img/G4-sala-de-clasa.r2.jpg",
-   "src": "galerie-v3/03-clasa-text.jpg",
-   "hash": "202b1e7145e67980",
-   "rev": 2
+   "file": "img/G4-sala-de-clasa.r3.jpg",
+   "src": "galerie-v3/patrat/03-clasa-text.jpg",
+   "hash": "a16a2fe902ae62cd",
+   "rev": 3
   },
   "G5": {
-   "file": "img/G5-toate-tarile-europei.r1.jpg",
-   "src": "galerie-v3/05-capitale-v1.jpg",
-   "hash": "3607a0b758476c18",
-   "rev": 1
+   "file": "img/G5-toate-tarile-europei.r2.jpg",
+   "src": "galerie-v3/patrat/05-capitale-v1.jpg",
+   "hash": "c6931087ca7cd02a",
+   "rev": 2
   },
   "G6": {
-   "file": "img/G6-material.r1.jpg",
-   "src": "galerie-v3/07-material-v2.jpg",
-   "hash": "661a361bd1c0f7fd",
-   "rev": 1
+   "file": "img/G6-material.r2.jpg",
+   "src": "galerie-v3/patrat/07-material-v2.jpg",
+   "hash": "e16c0f282b50bd52",
+   "rev": 2
   },
   "G7": {
-   "file": "img/G7-ambele-marimi.r2.jpg",
-   "src": "galerie-v3/09-marimi-v2.jpg",
-   "hash": "5733c64f634cebbb",
-   "rev": 2
+   "file": "img/G7-ambele-marimi.r3.jpg",
+   "src": "galerie-v3/patrat/09-marimi-v2.jpg",
+   "hash": "971fd20679090827",
+   "rev": 3
   },
   "G8-HEP110": {
-   "file": "img/G8-HEP110-cutia-cu-eticheta.r2.jpg",
-   "src": "galerie-v3/06-cutie-HEP110-v2.jpg",
-   "hash": "dd2735d117c6af05",
-   "rev": 2
+   "file": "img/G8-HEP110-cutia-cu-eticheta.r3.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HEP110-v2.jpg",
+   "hash": "f8d1b99298712490",
+   "rev": 3
   },
   "G8-HEP150": {
-   "file": "img/G8-HEP150-cutia-cu-eticheta.r2.jpg",
-   "src": "galerie-v3/06-cutie-HEP150-v2.jpg",
-   "hash": "e980819f94408ecd",
-   "rev": 2
+   "file": "img/G8-HEP150-cutia-cu-eticheta.r3.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HEP150-v2.jpg",
+   "hash": "71f309f9c7151737",
+   "rev": 3
   },
   "G9": {
-   "file": "img/G9-montaj.r1.jpg",
-   "src": "galerie-v3/08-montaj-v1.jpg",
-   "hash": "a6cf071e23973c93",
-   "rev": 1
+   "file": "img/G9-montaj.r2.jpg",
+   "src": "galerie-v3/patrat/08-montaj-v1.jpg",
+   "hash": "49ed68a79cb9704c",
+   "rev": 2
   },
   "A1": {
    "file": "img/A1-toate-denumirile-in-limba-ro.r1.jpg",

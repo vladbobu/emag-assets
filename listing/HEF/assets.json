@@ -8,58 +8,58 @@
    "rev": 2
   },
   "G2": {
-   "file": "img/G2-toate-denumirile-in-limba-ro.r1.jpg",
-   "src": "galerie-v3/04-limba-romana-v1.jpg",
-   "hash": "9bf4495aa075a2d5",
-   "rev": 1
+   "file": "img/G2-toate-denumirile-in-limba-ro.r2.jpg",
+   "src": "galerie-v3/patrat/04-limba-romana-v1.jpg",
+   "hash": "96c0b5ff3dcc747b",
+   "rev": 2
   },
   "G3": {
-   "file": "img/G3-birou.r2.jpg",
-   "src": "galerie-v3/10-birou-text.jpg",
-   "hash": "f9768608daf1c3a6",
-   "rev": 2
+   "file": "img/G3-birou.r3.jpg",
+   "src": "galerie-v3/patrat/10-birou-text.jpg",
+   "hash": "d582a04d6843aae3",
+   "rev": 3
   },
   "G4": {
-   "file": "img/G4-sala-de-clasa.r2.jpg",
-   "src": "galerie-v3/03-clasa-text.jpg",
-   "hash": "1daf1dc2d9df72d2",
-   "rev": 2
+   "file": "img/G4-sala-de-clasa.r3.jpg",
+   "src": "galerie-v3/patrat/03-clasa-text.jpg",
+   "hash": "ed33579f49753715",
+   "rev": 3
   },
   "G5": {
-   "file": "img/G5-munti-si-varfuri-cu-altitudi.r1.jpg",
-   "src": "galerie-v3/05-munti-v1.jpg",
-   "hash": "4e9246b3f2081aec",
-   "rev": 1
+   "file": "img/G5-munti-si-varfuri-cu-altitudi.r2.jpg",
+   "src": "galerie-v3/patrat/05-munti-v1.jpg",
+   "hash": "3444324bb2215485",
+   "rev": 2
   },
   "G6": {
-   "file": "img/G6-material.r1.jpg",
-   "src": "galerie-v3/07-material-v2.jpg",
-   "hash": "661a361bd1c0f7fd",
-   "rev": 1
+   "file": "img/G6-material.r2.jpg",
+   "src": "galerie-v3/patrat/07-material-v2.jpg",
+   "hash": "e16c0f282b50bd52",
+   "rev": 2
   },
   "G7": {
-   "file": "img/G7-ambele-marimi.r2.jpg",
-   "src": "galerie-v3/09-marimi-v2.jpg",
-   "hash": "de6cc11d6f824142",
-   "rev": 2
+   "file": "img/G7-ambele-marimi.r3.jpg",
+   "src": "galerie-v3/patrat/09-marimi-v2.jpg",
+   "hash": "b1d5234b2ab78176",
+   "rev": 3
   },
   "G8-HEF110": {
-   "file": "img/G8-HEF110-cutia-cu-eticheta.r2.jpg",
-   "src": "galerie-v3/06-cutie-HEF110-v2.jpg",
-   "hash": "d9f0d8ad1b6b978b",
-   "rev": 2
+   "file": "img/G8-HEF110-cutia-cu-eticheta.r3.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HEF110-v2.jpg",
+   "hash": "b79faaf32ccd02b5",
+   "rev": 3
   },
   "G8-HEF150": {
-   "file": "img/G8-HEF150-cutia-cu-eticheta.r2.jpg",
-   "src": "galerie-v3/06-cutie-HEF150-v2.jpg",
-   "hash": "a0c6401f53db9845",
-   "rev": 2
+   "file": "img/G8-HEF150-cutia-cu-eticheta.r3.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HEF150-v2.jpg",
+   "hash": "9a5236070899709e",
+   "rev": 3
   },
   "G9": {
-   "file": "img/G9-montaj.r1.jpg",
-   "src": "galerie-v3/08-montaj-v1.jpg",
-   "hash": "507a7bad31030d61",
-   "rev": 1
+   "file": "img/G9-montaj.r2.jpg",
+   "src": "galerie-v3/patrat/08-montaj-v1.jpg",
+   "hash": "52559ba6e11f3a07",
+   "rev": 2
   },
   "A1": {
    "file": "img/A1-toate-denumirile-in-limba-ro.r1.jpg",
