@@ -2,10 +2,10 @@
  "_info": "slot -> published file; files are never overwritten",
  "slots": {
   "G1": {
-   "file": "img/G1-imaginea-principala.r1.jpg",
-   "src": "galerie-v3/01-principala-v2.jpg",
-   "hash": "65771071b14afcd9",
-   "rev": 1
+   "file": "img/G1-imaginea-principala.r2.jpg",
+   "src": "galerie-v3/ecuson/01-principala-v2.jpg",
+   "hash": "f36d1006dc50f7fb",
+   "rev": 2
   },
   "G2": {
    "file": "img/G2-toate-denumirile-in-limba-ro.r1.jpg",
