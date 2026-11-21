@@ -2,16 +2,16 @@
  "_info": "slot -> published file; files are never overwritten",
  "slots": {
   "G1": {
-   "file": "img/G1-imaginea-principala.r2.jpg",
-   "src": "galerie-v3/ecuson/01-principala-v1.jpg",
-   "hash": "cece4da6967e201d",
-   "rev": 2
+   "file": "img/G1-imaginea-principala.r3.jpg",
+   "src": "galerie-v3/01-principala-v1.jpg",
+   "hash": "11dc1280245353fd",
+   "rev": 3
   },
   "G2": {
-   "file": "img/G2-denumiri-in-engleza.r2.jpg",
-   "src": "galerie-v3/patrat/04-engleza-v1.jpg",
-   "hash": "cebad41e4e9dc893",
-   "rev": 2
+   "file": "img/G2-toate-tarile-si-capitalele.r3.jpg",
+   "src": "galerie-v3/patrat/04-tari-v1.jpg",
+   "hash": "ac229d4bed667d64",
+   "rev": 3
   },
   "G3": {
    "file": "img/G3-birou.r2.jpg",
@@ -20,10 +20,10 @@
    "rev": 2
   },
   "G4": {
-   "file": "img/G4-sala-de-clasa.r2.jpg",
-   "src": "galerie-v3/patrat/03-clasa-text.jpg",
-   "hash": "523e562c88fe18a3",
-   "rev": 2
+   "file": "img/G4-sala-de-clasa.r3.jpg",
+   "src": "galerie-v3/patrat/03-clasa-text-v2.jpg",
+   "hash": "cc0742c341f3d76d",
+   "rev": 3
   },
   "G5": {
    "file": "img/G5-steagurile-tuturor-tarilor.r2.jpg",
@@ -68,10 +68,10 @@
    "rev": 2
   },
   "A1": {
-   "file": "img/A1-denumiri-in-engleza.r1.jpg",
-   "src": "galerie-v3/04-engleza-v1.jpg",
-   "hash": "93a9e60514e7e4a8",
-   "rev": 1
+   "file": "img/A1-04-tari.r2.jpg",
+   "src": "galerie-v3/04-tari-v1.jpg",
+   "hash": "68c57b41e0031166",
+   "rev": 2
   },
   "A2": {
    "file": "img/A2-steagurile-tuturor-tarilor.r1.jpg",
@@ -80,10 +80,10 @@
    "rev": 1
   },
   "A3": {
-   "file": "img/A3-sala-de-clasa.r1.jpg",
-   "src": "galerie-v3/03-clasa-text.jpg",
-   "hash": "8c7ab193293a8f32",
-   "rev": 1
+   "file": "img/A3-03-clasa-text.r2.jpg",
+   "src": "galerie-v3/03-clasa-text-v2.jpg",
+   "hash": "98279d12882805c9",
+   "rev": 2
   },
   "A4": {
    "file": "img/A4-birou.r1.jpg",
