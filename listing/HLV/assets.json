@@ -2,16 +2,16 @@
  "_info": "slot -> published file; files are never overwritten",
  "slots": {
   "G1": {
-   "file": "img/G1-imaginea-principala.r2.jpg",
-   "src": "galerie-v3/ecuson/01-principala-v4-cuplu.jpg",
-   "hash": "b3fe8c14c654e9b9",
-   "rev": 2
+   "file": "img/G1-imaginea-principala.r3.jpg",
+   "src": "galerie-v3/01-principala-v4-cuplu.jpg",
+   "hash": "a015beab71e32302",
+   "rev": 3
   },
   "G2": {
-   "file": "img/G2-stil-vintage-de-colectie.r2.jpg",
-   "src": "galerie-v3/patrat/04-engleza-v1.jpg",
-   "hash": "6bf086231ccd9e9a",
-   "rev": 2
+   "file": "img/G2-stil-vintage-de-colectie.r3.jpg",
+   "src": "galerie-v3/patrat/04-vintage-v1.jpg",
+   "hash": "4cc3c114d1283a5d",
+   "rev": 3
   },
   "G3": {
    "file": "img/G3-birou.r2.jpg",
@@ -68,10 +68,10 @@
    "rev": 2
   },
   "A1": {
-   "file": "img/A1-stil-vintage-de-colectie.r1.jpg",
-   "src": "galerie-v3/04-engleza-v1.jpg",
-   "hash": "0ae56cef78139338",
-   "rev": 1
+   "file": "img/A1-04.r2.jpg",
+   "src": "galerie-v3/04-vintage-v1.jpg",
+   "hash": "02d15ce753246f87",
+   "rev": 2
   },
   "A2": {
    "file": "img/A2-living.r1.jpg",
