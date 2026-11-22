@@ -86,16 +86,16 @@
    "rev": 1
   },
   "G1-HRF110": {
-   "file": "img/G1-HRF110-imaginea-principala-cadou.r1.jpg",
-   "src": "galerie-v3/test-ab/01B-cadou-HRF110-v7.jpg",
-   "hash": "8ef731f955ffc48f",
-   "rev": 1
+   "file": "img/G1-HRF110-imaginea-principala-cadou.r2.jpg",
+   "src": "galerie-v3/test-ab/01B-cadou-HRF110-v10.jpg",
+   "hash": "910c4ee16e95d9c0",
+   "rev": 2
   },
   "G1-HRF150": {
-   "file": "img/G1-HRF150-imaginea-principala-cadou.r1.jpg",
-   "src": "galerie-v3/test-ab/01B-cadou-HRF150-v7.jpg",
-   "hash": "2f2c85ba4648114b",
-   "rev": 1
+   "file": "img/G1-HRF150-imaginea-principala-cadou.r2.jpg",
+   "src": "galerie-v3/test-ab/01B-cadou-HRF150-v10.jpg",
+   "hash": "91a46319be69717c",
+   "rev": 2
   },
   "G8": {
    "file": "img/G8-ambele-marimi.r1.jpg",

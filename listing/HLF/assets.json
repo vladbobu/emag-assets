@@ -86,22 +86,22 @@
    "rev": 1
   },
   "G1-HLF110": {
-   "file": "img/G1-HLF110-imaginea-principala-cadou.r1.jpg",
-   "src": "galerie-v3/test-ab/01B-cadou-HLF110-v7.jpg",
-   "hash": "321731b456fc2239",
-   "rev": 1
+   "file": "img/G1-HLF110-imaginea-principala-cadou.r2.jpg",
+   "src": "galerie-v3/test-ab/01B-cadou-HLF110-v10.jpg",
+   "hash": "593d622bb5e891b7",
+   "rev": 2
   },
   "G1-HLF150": {
-   "file": "img/G1-HLF150-imaginea-principala-cadou.r1.jpg",
-   "src": "galerie-v3/test-ab/01B-cadou-HLF150-v7.jpg",
-   "hash": "d91589eee9c01462",
-   "rev": 1
+   "file": "img/G1-HLF150-imaginea-principala-cadou.r2.jpg",
+   "src": "galerie-v3/test-ab/01B-cadou-HLF150-v10.jpg",
+   "hash": "bd3dd08b10c6e072",
+   "rev": 2
   },
   "G1-HLF180": {
-   "file": "img/G1-HLF180-imaginea-principala-cadou.r1.jpg",
-   "src": "galerie-v3/test-ab/01B-cadou-HLF180-v7.jpg",
-   "hash": "4c3523b766e50373",
-   "rev": 1
+   "file": "img/G1-HLF180-imaginea-principala-cadou.r2.jpg",
+   "src": "galerie-v3/test-ab/01B-cadou-HLF180-v10.jpg",
+   "hash": "78d7996e35aeeeae",
+   "rev": 2
   },
   "G8": {
    "file": "img/G8-toate-marimile.r1.jpg",
