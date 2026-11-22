@@ -1,71 +1,41 @@
 {
  "_info": "slot -> published file; files are never overwritten",
  "slots": {
-  "G1": {
-   "file": "img/G1-imaginea-principala.r4.jpg",
+  "G2": {
+   "file": "img/G2-imaginea-principala.r4.jpg",
    "src": "galerie-v3/01-principala-v2.jpg",
    "hash": "a3eacc0e5fe1d043",
    "rev": 4
   },
-  "G2": {
-   "file": "img/G2-toate-tarile-si-capitalele.r3.jpg",
+  "G3": {
+   "file": "img/G3-toate-tarile-si-capitalele.r3.jpg",
    "src": "galerie-v3/patrat/04-tari-v1.jpg",
    "hash": "544e2d5f33ac0bef",
    "rev": 3
   },
-  "G3": {
-   "file": "img/G3-birou.r2.jpg",
+  "G4": {
+   "file": "img/G4-birou.r4.jpg",
    "src": "galerie-v3/patrat/10-birou-text.jpg",
    "hash": "69888d8d05edfc83",
-   "rev": 2
+   "rev": 4
   },
-  "G4": {
-   "file": "img/G4-sala-de-clasa.r3.jpg",
+  "G5": {
+   "file": "img/G5-sala-de-clasa.r3.jpg",
    "src": "galerie-v3/patrat/03-clasa-text-v2.jpg",
    "hash": "c9eeaa12bf994af3",
    "rev": 3
   },
-  "G5": {
-   "file": "img/G5-steagurile-tuturor-tarilor.r2.jpg",
+  "G6": {
+   "file": "img/G6-steagurile-tuturor-tarilor.r3.jpg",
    "src": "galerie-v3/patrat/05-steaguri-v1.jpg",
    "hash": "5e4d2b33ca134142",
-   "rev": 2
-  },
-  "G6": {
-   "file": "img/G6-material.r2.jpg",
-   "src": "galerie-v3/patrat/07-material-v2.jpg",
-   "hash": "e16c0f282b50bd52",
-   "rev": 2
+   "rev": 3
   },
   "G7": {
-   "file": "img/G7-toate-marimile.r2.jpg",
-   "src": "galerie-v3/patrat/09-marimi-v2.jpg",
-   "hash": "8914c30724573e1b",
-   "rev": 2
-  },
-  "G8-HLP100": {
-   "file": "img/G8-HLP100-cutia-cu-eticheta.r2.jpg",
-   "src": "galerie-v3/patrat/06-cutie-HLP100-v3.jpg",
-   "hash": "7b821fdf3213919f",
-   "rev": 2
-  },
-  "G8-HLP140": {
-   "file": "img/G8-HLP140-cutia-cu-eticheta.r2.jpg",
-   "src": "galerie-v3/patrat/06-cutie-HLP140-v3.jpg",
-   "hash": "2d9040a998eb4fc6",
-   "rev": 2
-  },
-  "G8-HLP160": {
-   "file": "img/G8-HLP160-cutia-cu-eticheta.r2.jpg",
-   "src": "galerie-v3/patrat/06-cutie-HLP160-v3.jpg",
-   "hash": "2ac9f2a592723ff5",
-   "rev": 2
-  },
-  "G9": {
-   "file": "img/G9-montaj.r2.jpg",
-   "src": "galerie-v3/patrat/08-montaj-v1.jpg",
-   "hash": "f08612717ec6bd38",
-   "rev": 2
+   "file": "img/G7-material.r3.jpg",
+   "src": "galerie-v3/patrat/07-material-v2.jpg",
+   "hash": "e16c0f282b50bd52",
+   "rev": 3
   },
   "A1": {
    "file": "img/A1-04-tari.r2.jpg",
@@ -114,6 +84,86 @@
    "src": "galerie-v3/08-montaj-v1.jpg",
    "hash": "db1e2814b850cd6e",
    "rev": 1
+  },
+  "G1-HLP100": {
+   "file": "img/G1-HLP100-imaginea-principala-cadou.r1.jpg",
+   "src": "galerie-v3/test-ab/01B-cadou-HLP100-v7.jpg",
+   "hash": "f96f8066f19330e2",
+   "rev": 1
+  },
+  "G1-HLP140": {
+   "file": "img/G1-HLP140-imaginea-principala-cadou.r1.jpg",
+   "src": "galerie-v3/test-ab/01B-cadou-HLP140-v7.jpg",
+   "hash": "bfc5bef984b6afed",
+   "rev": 1
+  },
+  "G1-HLP160": {
+   "file": "img/G1-HLP160-imaginea-principala-cadou.r1.jpg",
+   "src": "galerie-v3/test-ab/01B-cadou-HLP160-v7.jpg",
+   "hash": "36a88d6a820eced8",
+   "rev": 1
+  },
+  "G8": {
+   "file": "img/G8-toate-marimile.r1.jpg",
+   "src": "galerie-v3/patrat/09-marimi-v2.jpg",
+   "hash": "8914c30724573e1b",
+   "rev": 1
+  },
+  "G9-HLP100": {
+   "file": "img/G9-HLP100-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HLP100-v3.jpg",
+   "hash": "7b821fdf3213919f",
+   "rev": 1
+  },
+  "G9-HLP140": {
+   "file": "img/G9-HLP140-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HLP140-v3.jpg",
+   "hash": "2d9040a998eb4fc6",
+   "rev": 1
+  },
+  "G9-HLP160": {
+   "file": "img/G9-HLP160-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HLP160-v3.jpg",
+   "hash": "2ac9f2a592723ff5",
+   "rev": 1
+  },
+  "G10": {
+   "file": "img/G10-montaj.r1.jpg",
+   "src": "galerie-v3/patrat/08-montaj-v1.jpg",
+   "hash": "f08612717ec6bd38",
+   "rev": 1
+  }
+ },
+ "_retired": {
+  "G1": {
+   "file": "img/G1-imaginea-principala.r4.jpg",
+   "src": "galerie-v3/01-principala-v2.jpg",
+   "hash": "a3eacc0e5fe1d043",
+   "rev": 4
+  },
+  "G8-HLP100": {
+   "file": "img/G8-HLP100-cutia-cu-eticheta.r2.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HLP100-v3.jpg",
+   "hash": "7b821fdf3213919f",
+   "rev": 2
+  },
+  "G8-HLP140": {
+   "file": "img/G8-HLP140-cutia-cu-eticheta.r2.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HLP140-v3.jpg",
+   "hash": "2d9040a998eb4fc6",
+   "rev": 2
+  },
+  "G8-HLP160": {
+   "file": "img/G8-HLP160-cutia-cu-eticheta.r2.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HLP160-v3.jpg",
+   "hash": "2ac9f2a592723ff5",
+   "rev": 2
+  },
+  "G9": {
+   "file": "img/G9-montaj.r2.jpg",
+   "src": "galerie-v3/patrat/08-montaj-v1.jpg",
+   "hash": "f08612717ec6bd38",
+   "rev": 2
   }
  }
 }

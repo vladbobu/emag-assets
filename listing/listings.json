@@ -11,8 +11,8 @@
    199,
    249
   ],
-  "cover": "HLP/img/G1-imaginea-principala.r2.jpg",
-  "updated": "18.11.2026"
+  "cover": "HLP/img/G1-HLP110-imaginea-principala-cadou.r1.jpg",
+  "updated": "22.11.2026"
  },
  "HLF": {
   "name": "Harta Fizica a Lumii in Limba Romana",
@@ -26,8 +26,8 @@
    199,
    249
   ],
-  "cover": "HLF/img/G1-imaginea-principala.r2.jpg",
-  "updated": "18.11.2026"
+  "cover": "HLF/img/G1-HLF110-imaginea-principala-cadou.r1.jpg",
+  "updated": "22.11.2026"
  },
  "HEP": {
   "name": "Harta Politica a Europei in Limba Romana",
@@ -39,8 +39,8 @@
    149,
    209
   ],
-  "cover": "HEP/img/G1-imaginea-principala.r2.jpg",
-  "updated": "18.11.2026"
+  "cover": "HEP/img/G1-HEP110-imaginea-principala-cadou.r1.jpg",
+  "updated": "22.11.2026"
  },
  "HEF": {
   "name": "Harta Fizica a Europei in Limba Romana",
@@ -52,8 +52,8 @@
    149,
    209
   ],
-  "cover": "HEF/img/G1-imaginea-principala.r2.jpg",
-  "updated": "18.11.2026"
+  "cover": "HEF/img/G1-HEF110-imaginea-principala-cadou.r1.jpg",
+  "updated": "22.11.2026"
  },
  "HRF": {
   "name": "Harta Fizica a Romaniei",
@@ -65,8 +65,8 @@
    139,
    209
   ],
-  "cover": "HRF/img/G1-imaginea-principala.r2.jpg",
-  "updated": "18.11.2026"
+  "cover": "HRF/img/G1-HRF110-imaginea-principala-cadou.r1.jpg",
+  "updated": "22.11.2026"
  },
  "HLPEN": {
   "name": "Harta Politica a Lumii cu Tari · în engleză",
@@ -80,8 +80,8 @@
    189,
    229
   ],
-  "cover": "HLPEN/img/G1-imaginea-principala.r4.jpg",
-  "updated": "21.11.2026"
+  "cover": "HLPEN/img/G1-HLP100-imaginea-principala-cadou.r1.jpg",
+  "updated": "22.11.2026"
  },
  "HLFEN": {
   "name": "Harta Fizica a Lumii cu Relief · în engleză",
@@ -95,8 +95,8 @@
    189,
    229
   ],
-  "cover": "HLFEN/img/G1-imaginea-principala.r3.jpg",
-  "updated": "21.11.2026"
+  "cover": "HLFEN/img/G1-HLF100-imaginea-principala-cadou.r1.jpg",
+  "updated": "22.11.2026"
  },
  "HLV": {
   "name": "Harta Politica a Lumii Stil Antic de Colectie · în engleză",
@@ -110,7 +110,7 @@
    229,
    309
   ],
-  "cover": "HLV/img/G1-imaginea-principala.r3.jpg",
-  "updated": "21.11.2026"
+  "cover": "HLV/img/G1-HLV140-imaginea-principala-cadou.r1.jpg",
+  "updated": "22.11.2026"
  }
 }

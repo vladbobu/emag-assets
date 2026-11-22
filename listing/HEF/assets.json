@@ -1,65 +1,41 @@
 {
  "_info": "slot -> published file; files are never overwritten",
  "slots": {
-  "G1": {
-   "file": "img/G1-imaginea-principala.r2.jpg",
+  "G2": {
+   "file": "img/G2-imaginea-principala.r3.jpg",
    "src": "galerie-v3/ecuson/01-principala-v2.jpg",
    "hash": "c0dc84d10a0292c4",
-   "rev": 2
-  },
-  "G2": {
-   "file": "img/G2-toate-denumirile-in-limba-ro.r2.jpg",
-   "src": "galerie-v3/patrat/04-limba-romana-v1.jpg",
-   "hash": "96c0b5ff3dcc747b",
-   "rev": 2
-  },
-  "G3": {
-   "file": "img/G3-birou.r3.jpg",
-   "src": "galerie-v3/patrat/10-birou-text.jpg",
-   "hash": "d582a04d6843aae3",
    "rev": 3
   },
+  "G3": {
+   "file": "img/G3-toate-denumirile-in-limba-ro.r4.jpg",
+   "src": "galerie-v3/patrat/04-limba-romana-v1.jpg",
+   "hash": "96c0b5ff3dcc747b",
+   "rev": 4
+  },
   "G4": {
-   "file": "img/G4-sala-de-clasa.r3.jpg",
+   "file": "img/G4-birou.r4.jpg",
+   "src": "galerie-v3/patrat/10-birou-text.jpg",
+   "hash": "d582a04d6843aae3",
+   "rev": 4
+  },
+  "G5": {
+   "file": "img/G5-sala-de-clasa.r3.jpg",
    "src": "galerie-v3/patrat/03-clasa-text.jpg",
    "hash": "ed33579f49753715",
    "rev": 3
   },
-  "G5": {
-   "file": "img/G5-munti-si-varfuri-cu-altitudi.r2.jpg",
+  "G6": {
+   "file": "img/G6-munti-si-varfuri-cu-altitudi.r3.jpg",
    "src": "galerie-v3/patrat/05-munti-v1.jpg",
    "hash": "3444324bb2215485",
-   "rev": 2
-  },
-  "G6": {
-   "file": "img/G6-material.r2.jpg",
-   "src": "galerie-v3/patrat/07-material-v2.jpg",
-   "hash": "e16c0f282b50bd52",
-   "rev": 2
+   "rev": 3
   },
   "G7": {
-   "file": "img/G7-ambele-marimi.r3.jpg",
-   "src": "galerie-v3/patrat/09-marimi-v2.jpg",
-   "hash": "b1d5234b2ab78176",
-   "rev": 3
-  },
-  "G8-HEF110": {
-   "file": "img/G8-HEF110-cutia-cu-eticheta.r3.jpg",
-   "src": "galerie-v3/patrat/06-cutie-HEF110-v2.jpg",
-   "hash": "b79faaf32ccd02b5",
-   "rev": 3
-  },
-  "G8-HEF150": {
-   "file": "img/G8-HEF150-cutia-cu-eticheta.r3.jpg",
-   "src": "galerie-v3/patrat/06-cutie-HEF150-v2.jpg",
-   "hash": "9a5236070899709e",
-   "rev": 3
-  },
-  "G9": {
-   "file": "img/G9-montaj.r2.jpg",
-   "src": "galerie-v3/patrat/08-montaj-v1.jpg",
-   "hash": "52559ba6e11f3a07",
-   "rev": 2
+   "file": "img/G7-material.r4.jpg",
+   "src": "galerie-v3/patrat/07-material-v2.jpg",
+   "hash": "e16c0f282b50bd52",
+   "rev": 4
   },
   "A1": {
    "file": "img/A1-toate-denumirile-in-limba-ro.r1.jpg",
@@ -108,6 +84,68 @@
    "src": "galerie-v3/08-montaj-v1.jpg",
    "hash": "58350ecd361a07ae",
    "rev": 1
+  },
+  "G1-HEF110": {
+   "file": "img/G1-HEF110-imaginea-principala-cadou.r1.jpg",
+   "src": "galerie-v3/test-ab/01B-cadou-HEF110-v7.jpg",
+   "hash": "2d21f5b1d087867a",
+   "rev": 1
+  },
+  "G1-HEF150": {
+   "file": "img/G1-HEF150-imaginea-principala-cadou.r1.jpg",
+   "src": "galerie-v3/test-ab/01B-cadou-HEF150-v7.jpg",
+   "hash": "a638634928b757a1",
+   "rev": 1
+  },
+  "G8": {
+   "file": "img/G8-ambele-marimi.r1.jpg",
+   "src": "galerie-v3/patrat/09-marimi-v2.jpg",
+   "hash": "b1d5234b2ab78176",
+   "rev": 1
+  },
+  "G9-HEF110": {
+   "file": "img/G9-HEF110-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HEF110-v2.jpg",
+   "hash": "b79faaf32ccd02b5",
+   "rev": 1
+  },
+  "G9-HEF150": {
+   "file": "img/G9-HEF150-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HEF150-v2.jpg",
+   "hash": "9a5236070899709e",
+   "rev": 1
+  },
+  "G10": {
+   "file": "img/G10-montaj.r1.jpg",
+   "src": "galerie-v3/patrat/08-montaj-v1.jpg",
+   "hash": "52559ba6e11f3a07",
+   "rev": 1
+  }
+ },
+ "_retired": {
+  "G1": {
+   "file": "img/G1-imaginea-principala.r2.jpg",
+   "src": "galerie-v3/ecuson/01-principala-v2.jpg",
+   "hash": "c0dc84d10a0292c4",
+   "rev": 2
+  },
+  "G8-HEF110": {
+   "file": "img/G8-HEF110-cutia-cu-eticheta.r3.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HEF110-v2.jpg",
+   "hash": "b79faaf32ccd02b5",
+   "rev": 3
+  },
+  "G8-HEF150": {
+   "file": "img/G8-HEF150-cutia-cu-eticheta.r3.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HEF150-v2.jpg",
+   "hash": "9a5236070899709e",
+   "rev": 3
+  },
+  "G9": {
+   "file": "img/G9-montaj.r2.jpg",
+   "src": "galerie-v3/patrat/08-montaj-v1.jpg",
+   "hash": "52559ba6e11f3a07",
+   "rev": 2
   }
  }
 }

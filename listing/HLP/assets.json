@@ -1,71 +1,41 @@
 {
  "_info": "slot -> published file; files are never overwritten",
  "slots": {
-  "G1": {
-   "file": "img/G1-imaginea-principala.r2.jpg",
+  "G2": {
+   "file": "img/G2-imaginea-principala.r3.jpg",
    "src": "galerie-v3/ecuson/01-principala-v8.jpg",
    "hash": "69ba2373882a53ab",
-   "rev": 2
-  },
-  "G2": {
-   "file": "img/G2-toate-denumirile-in-limba-ro.r2.jpg",
-   "src": "galerie-v3/patrat/04-limba-romana-v3-ecuson.jpg",
-   "hash": "99b8383caaeb619d",
-   "rev": 2
-  },
-  "G3": {
-   "file": "img/G3-birou.r3.jpg",
-   "src": "galerie-v3/patrat/10-birou-v2-text.jpg",
-   "hash": "6a6417b41bd054bb",
    "rev": 3
   },
+  "G3": {
+   "file": "img/G3-toate-denumirile-in-limba-ro.r4.jpg",
+   "src": "galerie-v3/patrat/04-limba-romana-v3-ecuson.jpg",
+   "hash": "99b8383caaeb619d",
+   "rev": 4
+  },
   "G4": {
-   "file": "img/G4-sala-de-clasa.r3.jpg",
+   "file": "img/G4-birou.r4.jpg",
+   "src": "galerie-v3/patrat/10-birou-v2-text.jpg",
+   "hash": "6a6417b41bd054bb",
+   "rev": 4
+  },
+  "G5": {
+   "file": "img/G5-sala-de-clasa.r3.jpg",
    "src": "galerie-v3/patrat/03-clasa-v2-text.jpg",
    "hash": "c093c77d3797f100",
    "rev": 3
   },
-  "G5": {
-   "file": "img/G5-steagurile-tuturor-tarilor.r2.jpg",
+  "G6": {
+   "file": "img/G6-steagurile-tuturor-tarilor.r3.jpg",
    "src": "galerie-v3/patrat/05-steaguri-v2.jpg",
    "hash": "529a240273bc0baa",
-   "rev": 2
-  },
-  "G6": {
-   "file": "img/G6-material.r2.jpg",
-   "src": "galerie-v3/patrat/07-material-v2.jpg",
-   "hash": "e16c0f282b50bd52",
-   "rev": 2
+   "rev": 3
   },
   "G7": {
-   "file": "img/G7-toate-marimile.r3.jpg",
-   "src": "galerie-v3/patrat/09-marimi-v2.jpg",
-   "hash": "700d6549171a12d2",
-   "rev": 3
-  },
-  "G8-HLP110": {
-   "file": "img/G8-HLP110-cutia-cu-eticheta.r3.jpg",
-   "src": "galerie-v3/patrat/06-cutie-HLP110-v2.jpg",
-   "hash": "c5340d797104605e",
-   "rev": 3
-  },
-  "G8-HLP150": {
-   "file": "img/G8-HLP150-cutia-cu-eticheta.r3.jpg",
-   "src": "galerie-v3/patrat/06-cutie-HLP150-v2.jpg",
-   "hash": "f2ff13367606ca92",
-   "rev": 3
-  },
-  "G8-HLP180": {
-   "file": "img/G8-HLP180-cutia-cu-eticheta.r3.jpg",
-   "src": "galerie-v3/patrat/06-cutie-HLP180-v2.jpg",
-   "hash": "92a435b743474491",
-   "rev": 3
-  },
-  "G9": {
-   "file": "img/G9-montaj.r3.jpg",
-   "src": "galerie-v3/patrat/08-montaj-v3.jpg",
-   "hash": "8915ef4322918a2e",
-   "rev": 3
+   "file": "img/G7-material.r4.jpg",
+   "src": "galerie-v3/patrat/07-material-v2.jpg",
+   "hash": "e16c0f282b50bd52",
+   "rev": 4
   },
   "A1": {
    "file": "img/A1-toate-denumirile-in-limba-ro.r1.jpg",
@@ -114,6 +84,86 @@
    "src": "galerie-v3/06-cutie-HLP110-v2.jpg",
    "hash": "2b21bd82d2cf4433",
    "rev": 2
+  },
+  "G1-HLP110": {
+   "file": "img/G1-HLP110-imaginea-principala-cadou.r1.jpg",
+   "src": "galerie-v3/test-ab/01B-cadou-HLP110-v7.jpg",
+   "hash": "f92a29d09d78d609",
+   "rev": 1
+  },
+  "G1-HLP150": {
+   "file": "img/G1-HLP150-imaginea-principala-cadou.r1.jpg",
+   "src": "galerie-v3/test-ab/01B-cadou-HLP150-v7.jpg",
+   "hash": "98d32063d1e3c5e5",
+   "rev": 1
+  },
+  "G1-HLP180": {
+   "file": "img/G1-HLP180-imaginea-principala-cadou.r1.jpg",
+   "src": "galerie-v3/test-ab/01B-cadou-HLP180-v7.jpg",
+   "hash": "9472b2f19e085f1d",
+   "rev": 1
+  },
+  "G8": {
+   "file": "img/G8-toate-marimile.r1.jpg",
+   "src": "galerie-v3/patrat/09-marimi-v2.jpg",
+   "hash": "700d6549171a12d2",
+   "rev": 1
+  },
+  "G9-HLP110": {
+   "file": "img/G9-HLP110-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HLP110-v2.jpg",
+   "hash": "c5340d797104605e",
+   "rev": 1
+  },
+  "G9-HLP150": {
+   "file": "img/G9-HLP150-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HLP150-v2.jpg",
+   "hash": "f2ff13367606ca92",
+   "rev": 1
+  },
+  "G9-HLP180": {
+   "file": "img/G9-HLP180-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HLP180-v2.jpg",
+   "hash": "92a435b743474491",
+   "rev": 1
+  },
+  "G10": {
+   "file": "img/G10-montaj.r1.jpg",
+   "src": "galerie-v3/patrat/08-montaj-v3.jpg",
+   "hash": "8915ef4322918a2e",
+   "rev": 1
+  }
+ },
+ "_retired": {
+  "G1": {
+   "file": "img/G1-imaginea-principala.r2.jpg",
+   "src": "galerie-v3/ecuson/01-principala-v8.jpg",
+   "hash": "69ba2373882a53ab",
+   "rev": 2
+  },
+  "G8-HLP110": {
+   "file": "img/G8-HLP110-cutia-cu-eticheta.r3.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HLP110-v2.jpg",
+   "hash": "c5340d797104605e",
+   "rev": 3
+  },
+  "G8-HLP150": {
+   "file": "img/G8-HLP150-cutia-cu-eticheta.r3.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HLP150-v2.jpg",
+   "hash": "f2ff13367606ca92",
+   "rev": 3
+  },
+  "G8-HLP180": {
+   "file": "img/G8-HLP180-cutia-cu-eticheta.r3.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HLP180-v2.jpg",
+   "hash": "92a435b743474491",
+   "rev": 3
+  },
+  "G9": {
+   "file": "img/G9-montaj.r3.jpg",
+   "src": "galerie-v3/patrat/08-montaj-v3.jpg",
+   "hash": "8915ef4322918a2e",
+   "rev": 3
   }
  }
 }
