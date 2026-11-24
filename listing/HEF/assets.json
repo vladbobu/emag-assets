@@ -1,22 +1,10 @@
 {
  "_info": "slot -> published file; files are never overwritten",
  "slots": {
-  "G2": {
-   "file": "img/G2-imaginea-principala.r3.jpg",
-   "src": "galerie-v3/ecuson/01-principala-v2.jpg",
-   "hash": "c0dc84d10a0292c4",
-   "rev": 3
-  },
   "G3": {
    "file": "img/G3-toate-denumirile-in-limba-ro.r4.jpg",
    "src": "galerie-v3/patrat/04-limba-romana-v1.jpg",
    "hash": "96c0b5ff3dcc747b",
-   "rev": 4
-  },
-  "G4": {
-   "file": "img/G4-birou.r4.jpg",
-   "src": "galerie-v3/patrat/10-birou-text.jpg",
-   "hash": "d582a04d6843aae3",
    "rev": 4
   },
   "G5": {
@@ -86,22 +74,16 @@
    "rev": 1
   },
   "G1-HEF110": {
-   "file": "img/G1-HEF110-imaginea-principala-cadou.r2.jpg",
-   "src": "galerie-v3/test-ab/01B-cadou-HEF110-v10.jpg",
-   "hash": "afebf23fcb506d0c",
-   "rev": 2
+   "file": "img/G1-HEF110-imaginea-principala-cadou.r3.jpg",
+   "src": "galerie-v3/test-ab/01B-cadou-HEF110-v11.jpg",
+   "hash": "20e30d1c60260db8",
+   "rev": 3
   },
   "G1-HEF150": {
-   "file": "img/G1-HEF150-imaginea-principala-cadou.r2.jpg",
-   "src": "galerie-v3/test-ab/01B-cadou-HEF150-v10.jpg",
-   "hash": "bcb98fba6ef75a2d",
-   "rev": 2
-  },
-  "G8": {
-   "file": "img/G8-ambele-marimi.r1.jpg",
-   "src": "galerie-v3/patrat/09-marimi-v2.jpg",
-   "hash": "b1d5234b2ab78176",
-   "rev": 1
+   "file": "img/G1-HEF150-imaginea-principala-cadou.r3.jpg",
+   "src": "galerie-v3/test-ab/01B-cadou-HEF150-v11.jpg",
+   "hash": "cc620a632f3f5f3d",
+   "rev": 3
   },
   "G9-HEF110": {
    "file": "img/G9-HEF110-cutia-cu-eticheta.r1.jpg",
@@ -119,6 +101,24 @@
    "file": "img/G10-montaj.r1.jpg",
    "src": "galerie-v3/patrat/08-montaj-v1.jpg",
    "hash": "52559ba6e11f3a07",
+   "rev": 1
+  },
+  "G2-HEF110": {
+   "file": "img/G2-HEF110-imaginea-principala.r1.jpg",
+   "src": "galerie-v3/01-principala-v3-HEF110.jpg",
+   "hash": "4e9b34dcd074c1be",
+   "rev": 1
+  },
+  "G2-HEF150": {
+   "file": "img/G2-HEF150-imaginea-principala.r1.jpg",
+   "src": "galerie-v3/01-principala-v3-HEF150.jpg",
+   "hash": "0ac4aa16154be169",
+   "rev": 1
+  },
+  "G4-HEF150": {
+   "file": "img/G4-HEF150-birou.r1.jpg",
+   "src": "galerie-v3/patrat/10-birou-text.jpg",
+   "hash": "d582a04d6843aae3",
    "rev": 1
   }
  },
@@ -146,6 +146,24 @@
    "src": "galerie-v3/patrat/08-montaj-v1.jpg",
    "hash": "52559ba6e11f3a07",
    "rev": 2
+  },
+  "G2": {
+   "file": "img/G2-imaginea-principala.r3.jpg",
+   "src": "galerie-v3/ecuson/01-principala-v2.jpg",
+   "hash": "c0dc84d10a0292c4",
+   "rev": 3
+  },
+  "G4": {
+   "file": "img/G4-birou.r4.jpg",
+   "src": "galerie-v3/patrat/10-birou-text.jpg",
+   "hash": "d582a04d6843aae3",
+   "rev": 4
+  },
+  "G8": {
+   "file": "img/G8-ambele-marimi.r1.jpg",
+   "src": "galerie-v3/patrat/09-marimi-v2.jpg",
+   "hash": "b1d5234b2ab78176",
+   "rev": 1
   }
  }
 }
