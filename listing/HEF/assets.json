@@ -74,16 +74,16 @@
    "rev": 1
   },
   "G1-HEF110": {
-   "file": "img/G1-HEF110-imaginea-principala-cadou.r3.jpg",
-   "src": "galerie-v3/test-ab/01B-cadou-HEF110-v11.jpg",
-   "hash": "20e30d1c60260db8",
-   "rev": 3
+   "file": "img/G1-HEF110-imaginea-principala-cadou.r4.jpg",
+   "src": "galerie-v3/test-ab/01B-cadou-HEF110-v12.jpg",
+   "hash": "abeddb955a9e9471",
+   "rev": 4
   },
   "G1-HEF150": {
-   "file": "img/G1-HEF150-imaginea-principala-cadou.r3.jpg",
-   "src": "galerie-v3/test-ab/01B-cadou-HEF150-v11.jpg",
-   "hash": "cc620a632f3f5f3d",
-   "rev": 3
+   "file": "img/G1-HEF150-imaginea-principala-cadou.r4.jpg",
+   "src": "galerie-v3/test-ab/01B-cadou-HEF150-v12.jpg",
+   "hash": "d459d395f2a03cd2",
+   "rev": 4
   },
   "G9-HEF110": {
    "file": "img/G9-HEF110-cutia-cu-eticheta.r1.jpg",
