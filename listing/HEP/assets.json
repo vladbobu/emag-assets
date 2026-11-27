@@ -86,16 +86,16 @@
    "rev": 1
   },
   "G1-HEP110": {
-   "file": "img/G1-HEP110-imaginea-principala-cadou.r2.jpg",
-   "src": "galerie-v3/test-ab/01B-cadou-HEP110-v10.jpg",
-   "hash": "7387710aaab9b435",
-   "rev": 2
+   "file": "img/G1-HEP110-imaginea-principala-cadou.r3.jpg",
+   "src": "galerie-v3/test-ab/01B-cadou-HEP110-v12.jpg",
+   "hash": "0d5fd1a8b0b6f344",
+   "rev": 3
   },
   "G1-HEP150": {
-   "file": "img/G1-HEP150-imaginea-principala-cadou.r2.jpg",
-   "src": "galerie-v3/test-ab/01B-cadou-HEP150-v10.jpg",
-   "hash": "aedf1baa383b7e88",
-   "rev": 2
+   "file": "img/G1-HEP150-imaginea-principala-cadou.r3.jpg",
+   "src": "galerie-v3/test-ab/01B-cadou-HEP150-v12.jpg",
+   "hash": "f634e1040d001423",
+   "rev": 3
   },
   "G8": {
    "file": "img/G8-ambele-marimi.r1.jpg",
