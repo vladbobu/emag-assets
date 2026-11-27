@@ -2,40 +2,40 @@
  "_info": "slot -> published file; files are never overwritten",
  "slots": {
   "G2": {
-   "file": "img/G2-imaginea-principala.r4.jpg",
-   "src": "galerie-v3/01-principala-v4-cuplu.jpg",
-   "hash": "a015beab71e32302",
-   "rev": 4
-  },
-  "G3": {
-   "file": "img/G3-stil-vintage-de-colectie.r3.jpg",
+   "file": "img/G2-stil-vintage-de-colectie.r5.jpg",
    "src": "galerie-v3/patrat/04-vintage-v1.jpg",
    "hash": "4cc3c114d1283a5d",
-   "rev": 3
+   "rev": 5
   },
-  "G4": {
-   "file": "img/G4-birou.r3.jpg",
+  "G3": {
+   "file": "img/G3-birou.r4.jpg",
    "src": "galerie-v3/patrat/10-birou-text.jpg",
    "hash": "fe59a3c5d00f2a63",
-   "rev": 3
+   "rev": 4
   },
-  "G5": {
-   "file": "img/G5-living.r3.jpg",
+  "G4": {
+   "file": "img/G4-living.r4.jpg",
    "src": "galerie-v3/patrat/03-clasa-text.jpg",
    "hash": "5b4e1eeb5f6a2fbf",
-   "rev": 3
+   "rev": 4
   },
-  "G6": {
-   "file": "img/G6-detalii-clare-pe-toata-harta.r3.jpg",
+  "G5": {
+   "file": "img/G5-detalii-clare-pe-toata-harta.r4.jpg",
    "src": "galerie-v3/patrat/05-detaliu-v1.jpg",
    "hash": "d40fc113962b4e95",
-   "rev": 3
+   "rev": 4
   },
-  "G7": {
-   "file": "img/G7-material.r3.jpg",
+  "G6": {
+   "file": "img/G6-material.r4.jpg",
    "src": "galerie-v3/patrat/07-material-v2.jpg",
    "hash": "e16c0f282b50bd52",
-   "rev": 3
+   "rev": 4
+  },
+  "G7": {
+   "file": "img/G7-toate-marimile.r4.jpg",
+   "src": "galerie-v3/patrat/09-marimi-v2.jpg",
+   "hash": "1d2f353a190074ba",
+   "rev": 4
   },
   "A1": {
    "file": "img/A1-04.r2.jpg",
@@ -103,35 +103,29 @@
    "hash": "d1f0fc04aeec4e52",
    "rev": 2
   },
-  "G8": {
-   "file": "img/G8-toate-marimile.r1.jpg",
-   "src": "galerie-v3/patrat/09-marimi-v2.jpg",
-   "hash": "1d2f353a190074ba",
-   "rev": 1
-  },
-  "G9-HLV140": {
-   "file": "img/G9-HLV140-cutia-cu-eticheta.r1.jpg",
+  "G8-HLV140": {
+   "file": "img/G8-HLV140-cutia-cu-eticheta.r3.jpg",
    "src": "galerie-v3/patrat/06-cutie-HLV140-v3.jpg",
    "hash": "cbfd5137543ad38f",
-   "rev": 1
+   "rev": 3
   },
-  "G9-HLV160": {
-   "file": "img/G9-HLV160-cutia-cu-eticheta.r1.jpg",
+  "G8-HLV160": {
+   "file": "img/G8-HLV160-cutia-cu-eticheta.r3.jpg",
    "src": "galerie-v3/patrat/06-cutie-HLV160-v3.jpg",
    "hash": "1718a0621be597f1",
-   "rev": 1
+   "rev": 3
   },
-  "G9-HLV180": {
-   "file": "img/G9-HLV180-cutia-cu-eticheta.r1.jpg",
+  "G8-HLV180": {
+   "file": "img/G8-HLV180-cutia-cu-eticheta.r3.jpg",
    "src": "galerie-v3/patrat/06-cutie-HLV180-v3.jpg",
    "hash": "b884568a85a26bf2",
-   "rev": 1
+   "rev": 3
   },
-  "G10": {
-   "file": "img/G10-montaj.r1.jpg",
+  "G9": {
+   "file": "img/G9-montaj.r3.jpg",
    "src": "galerie-v3/patrat/08-montaj-v1.jpg",
    "hash": "a990a400925e6770",
-   "rev": 1
+   "rev": 3
   }
  },
  "_retired": {
@@ -164,6 +158,36 @@
    "src": "galerie-v3/patrat/08-montaj-v1.jpg",
    "hash": "a990a400925e6770",
    "rev": 2
+  },
+  "G8": {
+   "file": "img/G8-toate-marimile.r1.jpg",
+   "src": "galerie-v3/patrat/09-marimi-v2.jpg",
+   "hash": "1d2f353a190074ba",
+   "rev": 1
+  },
+  "G9-HLV140": {
+   "file": "img/G9-HLV140-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HLV140-v3.jpg",
+   "hash": "cbfd5137543ad38f",
+   "rev": 1
+  },
+  "G9-HLV160": {
+   "file": "img/G9-HLV160-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HLV160-v3.jpg",
+   "hash": "1718a0621be597f1",
+   "rev": 1
+  },
+  "G9-HLV180": {
+   "file": "img/G9-HLV180-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HLV180-v3.jpg",
+   "hash": "b884568a85a26bf2",
+   "rev": 1
+  },
+  "G10": {
+   "file": "img/G10-montaj.r1.jpg",
+   "src": "galerie-v3/patrat/08-montaj-v1.jpg",
+   "hash": "a990a400925e6770",
+   "rev": 1
   }
  }
 }

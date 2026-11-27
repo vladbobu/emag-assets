@@ -2,40 +2,40 @@
  "_info": "slot -> published file; files are never overwritten",
  "slots": {
   "G2": {
-   "file": "img/G2-imaginea-principala.r4.jpg",
-   "src": "galerie-v3/01-principala-v2.jpg",
-   "hash": "a3eacc0e5fe1d043",
-   "rev": 4
-  },
-  "G3": {
-   "file": "img/G3-toate-tarile-si-capitalele.r3.jpg",
+   "file": "img/G2-toate-tarile-si-capitalele.r5.jpg",
    "src": "galerie-v3/patrat/04-tari-v1.jpg",
    "hash": "544e2d5f33ac0bef",
-   "rev": 3
+   "rev": 5
   },
-  "G4": {
-   "file": "img/G4-birou.r4.jpg",
+  "G3": {
+   "file": "img/G3-birou.r4.jpg",
    "src": "galerie-v3/patrat/10-birou-text.jpg",
    "hash": "69888d8d05edfc83",
    "rev": 4
   },
-  "G5": {
-   "file": "img/G5-sala-de-clasa.r3.jpg",
+  "G4": {
+   "file": "img/G4-sala-de-clasa.r5.jpg",
    "src": "galerie-v3/patrat/03-clasa-text-v2.jpg",
    "hash": "c9eeaa12bf994af3",
-   "rev": 3
+   "rev": 5
   },
-  "G6": {
-   "file": "img/G6-steagurile-tuturor-tarilor.r3.jpg",
+  "G5": {
+   "file": "img/G5-steagurile-tuturor-tarilor.r4.jpg",
    "src": "galerie-v3/patrat/05-steaguri-v1.jpg",
    "hash": "5e4d2b33ca134142",
-   "rev": 3
+   "rev": 4
   },
-  "G7": {
-   "file": "img/G7-material.r3.jpg",
+  "G6": {
+   "file": "img/G6-material.r4.jpg",
    "src": "galerie-v3/patrat/07-material-v2.jpg",
    "hash": "e16c0f282b50bd52",
-   "rev": 3
+   "rev": 4
+  },
+  "G7": {
+   "file": "img/G7-toate-marimile.r4.jpg",
+   "src": "galerie-v3/patrat/09-marimi-v2.jpg",
+   "hash": "8914c30724573e1b",
+   "rev": 4
   },
   "A1": {
    "file": "img/A1-04-tari.r2.jpg",
@@ -103,35 +103,29 @@
    "hash": "50a31d6a5adf9181",
    "rev": 2
   },
-  "G8": {
-   "file": "img/G8-toate-marimile.r1.jpg",
-   "src": "galerie-v3/patrat/09-marimi-v2.jpg",
-   "hash": "8914c30724573e1b",
-   "rev": 1
-  },
-  "G9-HLP100": {
-   "file": "img/G9-HLP100-cutia-cu-eticheta.r1.jpg",
+  "G8-HLP100": {
+   "file": "img/G8-HLP100-cutia-cu-eticheta.r3.jpg",
    "src": "galerie-v3/patrat/06-cutie-HLP100-v3.jpg",
    "hash": "7b821fdf3213919f",
-   "rev": 1
+   "rev": 3
   },
-  "G9-HLP140": {
-   "file": "img/G9-HLP140-cutia-cu-eticheta.r1.jpg",
+  "G8-HLP140": {
+   "file": "img/G8-HLP140-cutia-cu-eticheta.r3.jpg",
    "src": "galerie-v3/patrat/06-cutie-HLP140-v3.jpg",
    "hash": "2d9040a998eb4fc6",
-   "rev": 1
+   "rev": 3
   },
-  "G9-HLP160": {
-   "file": "img/G9-HLP160-cutia-cu-eticheta.r1.jpg",
+  "G8-HLP160": {
+   "file": "img/G8-HLP160-cutia-cu-eticheta.r3.jpg",
    "src": "galerie-v3/patrat/06-cutie-HLP160-v3.jpg",
    "hash": "2ac9f2a592723ff5",
-   "rev": 1
+   "rev": 3
   },
-  "G10": {
-   "file": "img/G10-montaj.r1.jpg",
+  "G9": {
+   "file": "img/G9-montaj.r3.jpg",
    "src": "galerie-v3/patrat/08-montaj-v1.jpg",
    "hash": "f08612717ec6bd38",
-   "rev": 1
+   "rev": 3
   }
  },
  "_retired": {
@@ -164,6 +158,36 @@
    "src": "galerie-v3/patrat/08-montaj-v1.jpg",
    "hash": "f08612717ec6bd38",
    "rev": 2
+  },
+  "G8": {
+   "file": "img/G8-toate-marimile.r1.jpg",
+   "src": "galerie-v3/patrat/09-marimi-v2.jpg",
+   "hash": "8914c30724573e1b",
+   "rev": 1
+  },
+  "G9-HLP100": {
+   "file": "img/G9-HLP100-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HLP100-v3.jpg",
+   "hash": "7b821fdf3213919f",
+   "rev": 1
+  },
+  "G9-HLP140": {
+   "file": "img/G9-HLP140-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HLP140-v3.jpg",
+   "hash": "2d9040a998eb4fc6",
+   "rev": 1
+  },
+  "G9-HLP160": {
+   "file": "img/G9-HLP160-cutia-cu-eticheta.r1.jpg",
+   "src": "galerie-v3/patrat/06-cutie-HLP160-v3.jpg",
+   "hash": "2ac9f2a592723ff5",
+   "rev": 1
+  },
+  "G10": {
+   "file": "img/G10-montaj.r1.jpg",
+   "src": "galerie-v3/patrat/08-montaj-v1.jpg",
+   "hash": "f08612717ec6bd38",
+   "rev": 1
   }
  }
 }
